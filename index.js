@@ -1,5 +1,7 @@
 /* global require, module */
-'use strict';
+(function(){
+  'use strict';
+}());
 var path  = require('path');  
 var mergeTrees  = require('broccoli-merge-trees');
 var compileCompass = require('broccoli-compass');
